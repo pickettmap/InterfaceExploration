@@ -1,2 +1,2 @@
 # InterfaceExploration
-Looking into various interfaces
+Looking into various interfaces: : predicate, function, supplier/consumer, primitive function
